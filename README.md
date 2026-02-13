@@ -113,3 +113,31 @@ BTech student passionate about technology, building impactful solutions, and con
 ![](https://nirzak-streak-stats.vercel.app/?user=VIPULRAJ009&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VIPULRAJ009&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+---
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VIPULRAJ009/VIPULRAJ009/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VIPULRAJ009/VIPULRAJ009/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/VIPULRAJ009/VIPULRAJ009/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Profile Visitors
+
+<img src="https://visitcount.itsvg.in/api?id=VIPULRAJ009&label=Visitors&color=12&icon=5&pretty=true" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+
+### 🚀 Thanks for Visiting!
+
+*Feel free to explore my repositories and connect for collaborations.*
+
+</div>
